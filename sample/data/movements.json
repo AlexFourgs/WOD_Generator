@@ -1,0 +1,1227 @@
+{
+	"Barbell Snatch": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Back",
+            "Arms",
+            "Legs",
+            "Core"
+        ],
+        "Benefits": [
+            "Increase speed and strength",
+            "Improve balance",
+            "Burn calories and build lean mass"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Clean and Press": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute",
+            "Arms",
+            "Shoulder",
+            "Core"
+        ],
+        "Benefits": [
+            "Build endurance, strength, and hypertrophy",
+            "Burn calories while growing lean mass",
+            "Increase explosiveness"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Front/Back Squat": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Quads",
+            "Core"
+        ],
+        "Benefits": [
+            "Build study Legs",
+            "Improve athletic and weight lifting performance"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Push Press": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Shoulders",
+            "Legs"
+        ],
+        "Benefits": [
+            "Build strength, power, and stability",
+            "Enhance your ability to do better in sports and weight lifting"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Hang Clean": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Arms",
+            "Shoulder"
+        ],
+        "Benefits": [
+            "Increase your balance and explosive power",
+            "Build strength and muscles"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Power Clean and Split Jerk": {
+        "Difficulty": [ 
+            "Pro"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Arms",
+            "Shoulder",
+            "Core"
+        ],
+        "Benefits": [
+            "Enhance quickness, strength, and balance",
+            "Burn many calories in quick time and build lean mass"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Overhead Squat": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Shoulder"
+        ],
+        "Benefits": [
+            "Build lower body strength and mass"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Military Press": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulder"
+        ],
+        "Benefits": [ 
+            "Build sturdy Shoulders"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Bench Press": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Chest"
+        ],
+        "Benefits": [
+            "Develop a stronger upper body, especially Chest"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "The Deadlift and its variations": {
+        "Difficulty": [
+            "Beginner",
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Legs", 
+            "Glute",
+            "Core",
+            "Back"
+        ],
+        "Benefits": [
+            "Build endurance, strength, and hypertrophy. (more benefits)"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Squat Jerk": {
+        "Difficulty": [
+            "Intermediate",
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Shoulders",
+            "Legs"
+        ],
+        "Benefits": [
+            "Build shoulders mobility and strength.",
+            "Increase lower body strength"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Split Jerk": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Legs"
+        ],
+        "Benefits": [
+            "Develop explosive power and muscular Shoulders"
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell High Pull": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Shoulder",
+            "Back",
+            "Arms"
+        ],
+        "Benefits": [
+            "Excellent for building upper and lower body strength."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Rowing": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Back"
+        ],
+        "Benefits": [
+            "It strengthens your back muscles and helps you build a wider back."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "The Zercher Squat": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Forearms"
+        ],
+        "Benefits": [
+            "If you want to challenge your strength and endurance, you can try Zercher squat. It will help you increase lower body and forearm strength."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "The Split Clean": {
+        "Difficulty": [
+            "Intermediate",
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Legs",
+            "Core",
+            "Arms"
+        ],
+        "Benefits": [
+            "You can do the split clean to develop strong Legs and explosive power."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "The Good Morning": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Hamstrings",
+            "Lower Back"
+        ],
+        "Benefits": [
+            "Good morning is one of the best workouts for the lower back, glute, and hamstrings. It builds up strength and reduces the risk of injury."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Barbell Jammer": {
+        "Difficulty": [
+            "Intermediate",
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Quads",
+            "Hams",
+            "Calves",
+            "Glute",
+            "Shoulder",
+            "Chest",
+            "Triceps"
+        ],
+        "Benefits": [ 
+            "You can do a barbell jammer to work on your full body and build mass."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Sumo Deadlift": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute",
+            "Back"
+        ],
+        "Benefits": [
+            "The Sumo DL build studry Quads and Glute without putting much stress on the lumbar spine. Moreover, it improves your grip strength and pulling ability that will help you in your day-to-day activities."
+        ],
+        "Category": null,
+        "Equipment": "Barbell"
+    },
+    "Dumbbell Front-Rack Lunge": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute"
+        ],
+        "Benefits": [
+            "You can do lunges to build your lower body strength and mobility."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "DB Clean and Press": {
+        "Difficulty": [
+            "Intermediate"
+            ],
+        "Muscles Worked": [
+            "Legs",
+            "Shoulder"
+        ],
+        "Benefits": [
+            "Like barbell, dumbbell clean and press will also help you improve your strength, speed, and balance."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Hang Power Clean": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Core",
+            "Shoulder"
+        ],
+        "Benefits": [
+            "It improves your ability to move and act (physically) quickly."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Squat": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Quads"
+        ],
+        "Benefits": [
+            "The DB squat is a simple workout to build stronger Quads."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "DB Push Press": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Legs"
+        ],
+        "Benefits": [
+            "You can do push press to enhance your strength and speed at home. Push press also helps you increase your Shoulder strength and mobility." 
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Man Maker": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "The man maker is an excellent workout that helps you engage your Full Body at once."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Overhead Press": { "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulder"
+        ],
+        "Benefits": [
+            "The overhead press primarily strengthens your Shoulders."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "DB Romanian Deadlift": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Hamstrings",
+            "Glute",
+            "Lower Back"
+        ],
+        "Benefits": [
+            "The Romanian DL helps you strengthen the ham and lower back, enhance balance, and decrease the risk of injury."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Farmers Carry": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It strengthens the entire body by simply walking with dumbbells."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Thruster": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Shoulder"
+        ],
+        "Benefits": [
+            "You can do thruster if you want to build your quads, shoulders with one movement."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "DB Power Snatch": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute",
+            "Back" 
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Power Clean": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Legs"
+        ],
+        "Benefits": [
+            "It primarily improves your quickness while strengthening your shoulders."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "The Dumbbell Step-Up": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute",
+            "Back"
+        ],
+        "Benefits": [
+            "The DB step up is an excellent move for building stronger legs while increasing explosive power."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "The DB Overhead Squat": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Quads" 
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Turkish Get-Up": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It strengthens the Full Body, improves posture, and increases shoulders stability."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "DB Pushup to Renegade Row": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Upper Body"
+            ],
+        "Benefits": [
+            "It is an excellent workout for building muscular strength while improving balance and stabilization."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbell Russian Twist": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Glute",
+            "Back"
+        ],  
+        "Benefits": [
+            "Build a sturdy core and improve balance."
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Deadlift": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Surrenders": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Dumbbell Lunges to Hammer Curl": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs",
+            "Biceps"
+        ],
+        "Category": null,
+        "Equipment": "Dumbbell"
+    },
+    "Turkish Get-up": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Russian Kettlebell Swing": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulders",
+            "Legs"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    }, 
+    "American Kettlebell Swing": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    }, 
+    "The Kettlebell Snatch": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Kettlebell Good Morning": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Hamstrings",
+            "Lower Back"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Single-Leg Romanian Deadlift": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Hamstrings",
+            "Lower Back"
+        ],
+        "Benefits": [
+            "It improves your strength and balance."
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    }, 
+    "Kettlebell Gorilla Row": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Back"
+        ],
+        "Benefits": [
+            "The KB halo works on your lats and helps you build a muscular back."
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    }, 
+    "Kettlebell Thrusters": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "KB Goblet Squats": {
+        "Difficulty": [
+            "Beginner",
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Quads",
+            "Glute"
+        ],
+        "Benefits": [
+            "The goblet squat helps you target the side muscles of your thighs build defined legs."
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    }, 
+    "Kettlebell Front Raise": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Shoulders"
+        ],
+        "Benefits": [
+            "You can do KB front raises to reinforce the front part of shoulders more specifically."
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Kettlebell Taters": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It helps you build strong quads and improve balance." 
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "KB Farmers Carry": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Kettlebell Windmill": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Kettelbell"
+    },
+    "Kettlebell Deadlift": {},
+    "Ring Push-Up": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Forward Roll to Support": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Skin the Cat": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "L-Sit on Rings": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Ring Handstand Push Up": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Strict Toes-to-Rings": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Ring Dips": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Ring Row": {
+        "Category": null,
+        "Equipment": "Ring"
+    },
+    "Pull-Up": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Back",
+            "Biceps"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Hanging Windshield Wiper": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    }, 
+    "Butterfly Pull-Up": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Back",
+            "Biceps"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    }, 
+    "L-Sit on Bar": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Core",
+            "Biceps"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Toes-to-Bar": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Chest To Bar Pullups": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Pull-up Bar Muscle Up": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    }, 
+    "Pull-up Bar Knees-to-Elbows": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Core",
+            "Back",
+            "Shoulder"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Negative Pull-ups": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Back"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    }, 
+    "Chin-ups": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Bicep"
+        ],
+        "Category": null,
+        "Equipment": "Pull up bar"
+    },
+    "Handstand Push-up": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Shoulder",
+            "Arms",
+            "Core"
+        ],
+        "Benefits": [
+            "The handstand push-up is great for developing shoulder strength, overall stability, and balance."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Box Jumps": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "You can do it to strengthen your lower body. Moreover, it improves your ability to do things at a quicker pace."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Burpee and its variations": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "Burpees is a high-intense movement that builds up the entire body, burns many calories, and improves explosiveness."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Pistol Squat": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Legs"
+        ],
+        "Benefits": [
+            "It improves strength and mobility."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "Handstand Walk": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Upper Body"
+        ],
+        "Benefits": [
+            "It builds stability, balance and engages the Full Body."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "Squat Thrust": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "Like burpee, it also works on the entire body and enhances endurance."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "The Double-Under": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "The double-under is also known as jumping rope. It is a highintensity workout that burns plenty of calories in a short time and builds stamina."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Floor L-Sit": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Arms",
+            "Core"
+        ],
+        "Benefits": [
+            "Floor L-sit helps you improve your balance and strength and forge Core."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Box Step-Up": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Lower Body"
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Squat and its variations": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "The different variations of squats will help you strengthen your lower body, build muscles, and improve balance and overall performance."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Plank and its variations": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Lower Body"
+        ],
+        "Benefits": [
+            "The various planks fortify your core, increase endurance, and tone abdominal muscles."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Mountain Climbers": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "The mountain climber is a high-intensity core workout that helps you build a sturdy core and burn plenty of calories in a quick time."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Tuck ups": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "It is an excellent workout. You can incorporate it into your core workout routine to strengthen your abs and oblique."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Leg Raises/Lifts": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "It helps you develop a sturdy core."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "Dragon Fly": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "It is one of the best and most effective abs workouts you can do to build six-pack abs. Moreover, it improves your ability to control your body movement." 
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Bear Crawl": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "Whether you're a beginner to pro, you can do a bear crawl workout to engage your entire body and boost stamina."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Knee to opposite Elbow Mountain Climber": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "V ups": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "It helps you forge core and build defined abs."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "Squat Jump": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It increases explosive power, boosts stamina, and burns many calories."
+        ],
+        "Category": null,
+        "Equipment": null
+    }, 
+    "Hollow Rocks": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Benefits": [
+            "The hollow rock strengthens and tones your abdominal muscles."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "The Wall Ball": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "The wall ball is an excellent workout for developing strength and endurance."
+        ],
+        "Category": null,
+        "Equipment": "Wall Ball"
+    },
+    "Rope Climbing": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "Rope climbing is excellent for developing a solid grip, upper body strength, and the ability to move fast."
+        ],
+        "Category": null,
+        "Equipment": "Rope"
+    },
+    "L-Sit to Shoulder Stand": {
+        "Difficulty": [
+            "Advanced"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It is one of the most sophisticated workouts to improve balance, strength, and flexibility."
+        ],
+        "Category": null,
+        "Equipment": null
+    } ,
+    "Bar Dips": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Upper Body"
+        ],
+        "Benefits": [
+            "The dips strengthen the chest and triceps and help you build a strong body."
+        ],
+        "Category": null,
+        "Equipment": "Bar Dips"
+    },
+    "Bar L Sit": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Core"
+        ],
+        "Category": null,
+        "Equipment": "Bar L Sit"
+    },
+    "Running": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "Running is a great way to build endurance, burn plenty of calories, and lose weight. You can also check out basic but crucial tips for improving longer and faster."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Sprinting": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "It is an anaerobic workout, helps you utilize your stored fats during the movement, and increases weight loss."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Rowing Machine": {
+        "Difficulty": [
+            "Intermediate"
+        ],
+        "Muscles Worked": [
+            "Full Body"
+        ],
+        "Benefits": [
+            "The rowing machine exercise improves the back strength, flexibility in the upper body, boosts stamina, burns many calories, and decreases fat mass and Full Body fat percent."
+        ],
+        "Category": null,
+        "Equipment": null
+    },
+    "Weighted Glute Bridge": {
+        "Difficulty": [
+            "Beginner"
+        ],
+        "Muscles Worked": [
+            "Glute",
+            "Lower Back"
+        ],
+        "Benefits": [
+            "The Glute Bridge strengthens glutes Maximus, improves hip mobility, and builds a strong core."
+        ],
+        "Category": null,
+        "Equipment": null
+    }
+}
